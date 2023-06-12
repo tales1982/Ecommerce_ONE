@@ -1,4 +1,4 @@
-# E-commerce OpenSource Onebitcode =)
+# E-commerce OpenSource
 
 This is an OpenSource API for a Game E-commerce project.
 
